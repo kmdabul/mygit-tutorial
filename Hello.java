@@ -3,12 +3,12 @@ public class Hello {
         System.out.println("Vs Code is Awesome...");
 
 
-        greeting("Moh Rohan Ahmed");
+        greeting("Git");
     }
 
 
     public static void greeting(string name){
-        System.out.println("welcome" + name);
+        System.out.println("Bye Bye" + name);
     }
 
     public static int sqr(int x){
