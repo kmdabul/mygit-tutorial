@@ -3,15 +3,12 @@ public class Hello {
         System.out.println("Vs Code is Awesome...");
 
 
-        display();
+    }
+
+    public static void message(){
+        System.out.println("Hooray !!! Now we are to conribute on open syrce...");
     }
 
 
-    public static void display() {
-        System.out.println("Hello Hello");
-    }
-
-    public static int sqr(int x){
-        return x'x;
-    }
+    
 }
